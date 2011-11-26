@@ -1,0 +1,22 @@
+[
+    {
+        "name":"bbc",
+        "url":"http://bbc.com",
+        "miliseconds":5000
+    },
+    {
+        "name":"cnn",
+        "url":"http://cnn.com",
+        "miliseconds":16000
+    },
+    {
+        "name":"SkyNews",
+        "url":"http://news.sky.com/home/",
+        "miliseconds":4000
+    },
+    {
+        "name":"EuroNews",
+        "url":"http://es.euronews.net/",
+        "miliseconds":4000
+    }
+]
